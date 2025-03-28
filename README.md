@@ -2,3 +2,5 @@
 - npm ci
 - npm install
 - npm run dev
+- chạy trên: http://localhost:3000/books
+- Nhớ thêm /books ở sau link
