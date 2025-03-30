@@ -20,11 +20,8 @@
 
 Tạo file `.env` trong thư mục gốc của dự án và cấu hình các biến môi trường sau:
 
-  PORT=5001
-  DB_USER=sa
-  DB_PASS=Vanthinh261005
-  DB_SERVER=localhost
-  DB_NAME=bookstore_db
+  <img width="243" alt="image" src="https://github.com/user-attachments/assets/f593b072-937c-461c-b380-60f478d858f5" />
+
 
 
 ### 4. Chạy backend (Node.js + SQL Server)
