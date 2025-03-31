@@ -12,7 +12,8 @@
 ### 2. Cài đặt các dependencies
 Đảm bảo bạn đã cài **Node.js** và **npm**. Chạy lệnh sau để cài đặt các dependencies:
 
-  npm install
+npm inti -y  
+npm install
 
 
 
@@ -25,10 +26,12 @@ Tạo file `.env` trong thư mục gốc của dự án và cấu hình các bi�
 
 
 ### 4. Chạy backend (Node.js + SQL Server)
+in be : node index.js
 
 Trước tiên, đảm bảo đã chạy **SQL Server** trên máy (hoặc dùng Docker).
 Sau đó, trong thư mục backend (`bookstore-be`), chạy lệnh:
 
+in fe
   npm run dev
 
 
