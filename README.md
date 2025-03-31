@@ -6,7 +6,7 @@
 
 ### 1. Clone dự án về máy
 
-  git clone https://github.com/your-username/bookstore-demo.git cd bookstore-demo
+  git clone https://github.com/vanthinh26102005/bookstore-ie103/edit/main/README.md
 
 
 ### 2. Cài đặt các dependencies
